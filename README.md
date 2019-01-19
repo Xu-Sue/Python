@@ -1,2 +1,2 @@
-# Python
-A program for many docs
+# 有关python数据挖掘的学习
+主要上传有关数据挖掘学习的文件和文档
